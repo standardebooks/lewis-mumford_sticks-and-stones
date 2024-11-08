@@ -43,7 +43,7 @@
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
-		<dc:language>en-GB</dc:language>
+		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64629</dc:source>
 		<dc:source>https://archive.org/details/sticksstones0000lewi</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
