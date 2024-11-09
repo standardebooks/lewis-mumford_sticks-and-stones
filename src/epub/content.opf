@@ -39,9 +39,10 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85006693</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A discussion on the effects of architecture on American society throughout history.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;The historian &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; discusses how American society has evolved alongside its architecture. Beginning with the first settlements in New England through to the early twentieth century, Mumford traces the development of American life through its ever-changing buildings and cities. From the simplicity of the early villages, to the classical Palladian style of the antebellum southern plantations, to the imperial buildings of Washington D.C., through to the uniformity of the mechanical age, Mumford contends that each style of architecture guides the development of society and its economy in a certain direction.&lt;/p&gt;
+			&lt;p&gt;In particular, the architecture of a society embodies specific values and encourages certain kinds of relationships between people. Mumford claims that mass-produced, mechanical architecture has led to an increasingly uniform urban society that has lost touch with nature and tends to minimize genuine human contact. The most visible effect of this are the sprawling suburbs and commuter lifestyle that were becoming increasingly larger and more common in the early twentieth century. Mumford concludes by imploring the need for a new, human-centered kind of architectural framework, including urban design, that could encourage a better, healthier, society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64629</dc:source>
