@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/lewis-mumford/sticks-and-stones</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-11T22:29:13Z</dc:date>
+		<meta property="dcterms:modified">2024-11-11T22:29:13Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -39,16 +39,16 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85006693</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">A discussion on the effects of architecture on American society throughout history.</dc:description>
+		<dc:description id="description">Lewis Mumford discusses the effects of architecture on American society throughout history.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;The historian &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; discusses how American society has evolved alongside its architecture. Beginning with the first settlements in New England through to the early twentieth century, Mumford traces the development of American life through its ever-changing buildings and cities. From the simplicity of the early villages, to the classical Palladian style of the antebellum southern plantations, to the imperial buildings of Washington D.C., through to the uniformity of the mechanical age, Mumford contends that each style of architecture guides the development of society and its economy in a certain direction.&lt;/p&gt;
+			&lt;p&gt;In his book &lt;i&gt;Sticks and Stones&lt;/i&gt;, the historian &lt;a href="https://standardebooks.org/ebooks/lewis-mumford"&gt;Lewis Mumford&lt;/a&gt; discusses how American society has evolved alongside its architecture. Beginning with the first settlements in New England through to the early twentieth century, Mumford traces the development of American life through its ever-changing buildings and cities. From the simplicity of the early villages, to the classical Palladian style of the antebellum southern plantations, to the imperial buildings of Washington D.C., through to the uniformity of the mechanical age, Mumford contends that each style of architecture guides the development of society and its economy in a certain direction.&lt;/p&gt;
 			&lt;p&gt;In particular, the architecture of a society embodies specific values and encourages certain kinds of relationships between people. Mumford claims that mass-produced, mechanical architecture has led to an increasingly uniform urban society that has lost touch with nature and tends to minimize genuine human contact. The most visible effect of this are the sprawling suburbs and commuter lifestyle that were becoming increasingly larger and more common in the early twentieth century. Mumford concludes by imploring the need for a new, human-centered kind of architectural framework, including urban design, that could encourage a better, healthier, society.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64629</dc:source>
 		<dc:source>https://archive.org/details/sticksstones0000lewi</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">41247</meta>
+		<meta property="se:reading-ease.flesch">39.0</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-mumford_sticks-and-stones</meta>
 		<dc:creator id="author">Lewis Mumford</dc:creator>
 		<meta property="file-as" refines="#author">Mumford, Lewis</meta>
@@ -78,6 +78,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
