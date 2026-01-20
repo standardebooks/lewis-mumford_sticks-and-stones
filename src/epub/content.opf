@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/64629</dc:source>
 		<dc:source>https://archive.org/details/sticksstones0000lewi</dc:source>
-		<meta property="se:word-count">41247</meta>
+		<meta property="se:word-count">41060</meta>
 		<meta property="se:reading-ease.flesch">39.0</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/lewis-mumford_sticks-and-stones</meta>
 		<dc:creator id="author">Lewis Mumford</dc:creator>
