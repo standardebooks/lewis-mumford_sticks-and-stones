@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="chapter-6.xhtml">
 		<ignore code="t-019">
+			<line>20</line>
 			<reason>Quotation is not a complete clause.</reason>
 		</ignore>
 	</file>
